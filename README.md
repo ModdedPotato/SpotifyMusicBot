@@ -3,7 +3,7 @@ Trying to make a bot to play spotify through discord voice channels
 
 # Examples used to make it happen
 
-## Example 1
+## Example 1 (shout out to evie.codes in the discord api server)
 
 const Discord = require("discord.js");
 const ytdl = require('ytdl-core');
@@ -24,7 +24,7 @@ client.on('message', message => {
 
 client.login('BOT_TOKEN');
 ## Example 2
-### source: https://www.npmjs.com/package/spotify-control
+### source: [spotify-control](https://www.npmjs.com/package/spotify-control)
 
 const SpotifyControl = require('spotify-control');
  
