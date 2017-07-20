@@ -1,0 +1,5 @@
+npm install --save discord.js
+npm install ffmpeg-binaries
+npm install node-opus
+npm install opusscript
+npm install  spotify-control
