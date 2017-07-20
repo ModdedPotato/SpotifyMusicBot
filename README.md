@@ -24,7 +24,7 @@ client.on('message', message => {
   }
 });
 
-client.login('BOT_TOKEN');```
+client.login('BOT_TOKEN'); ```
 
 ## Example 2
 ### source: [spotify-control](https://www.npmjs.com/package/spotify-control)
