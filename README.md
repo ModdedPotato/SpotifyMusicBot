@@ -29,7 +29,7 @@ client.login('BOT_TOKEN'); ```
 ## Example 2
 ### source: [spotify-control](https://www.npmjs.com/package/spotify-control)
 
-```
+
 const SpotifyControl = require('spotify-control');
  
 var spotify = new SpotifyControl({
@@ -48,4 +48,4 @@ spotify.connect().then(v => {
     });
 }, err => {
     console.error("Failed to start: " + err.message);
-})```
+})
